@@ -1,0 +1,8 @@
+The following encryption algorithms will be compared: DES, 3DES, AES, Blowfish and RSA.
+According to Patil et al. (620:2016) the parameters used to evaluate encryption algorithms against are:
+1.	Encryption time – The time it takes for the algorithm to convert plaintext to ciphertext.
+2.	Decryption time – The time it takes for the algorithm to recover plaintext from ciphertext.
+3.	Memory used – The memory required by the algorithm for its operations.
+4.	Avalanche effect - The desirable property of encryption algorithms wherein if an input is changed slightly, the output changes significantly. It reflects the cryptographic strength of an algorithm.
+5.	Entropy – The measure of randomness in the information. A higher value is desirable.
+6.	Number of bits required to encrypt optimally – The number of bits determine the storage size and bandwidth required for storing and transmitting encrypted bits and thus a smaller number of bits is desirable.
